@@ -10,6 +10,7 @@ order: 5
 https://pwn.college/
 https://ctf101.org/
 https://ost2.fyi/
+https://github.com/wtsxDev/reverse-engineering?tab=readme-ov-file#courses
 
 ## Code learning
 https://developer.mozilla.org/en-US/docs/Web/HTTP
