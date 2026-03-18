@@ -7,18 +7,32 @@ order: 5
 {: .prompt-tip }
 
 ## Cyber Learning
-<a href="https://pwn.college/">
-  <img alt="Static Badge" src="https://img.shields.io/badge/-pwn.college-yellow">
-</a>
-<a href="https://ctf101.org/">
-  <img alt="Static Badge" src="https://img.shields.io/badge/-ctf101-blue">
-</a>
-<a href="https://ost2.fyi/">
-  <img alt="Static Badge" src="https://img.shields.io/badge/-Open_Security_Training-green">
-</a>
-<a href="https://github.com/wtsxDev/reverse-engineering?tab=readme-ov-file#courses">
-  <img alt="Static Badge" src="https://img.shields.io/badge/-Reverse_Engineering-blue&logo=GitHub$logoColor=white">
-</a>
+<ul class="skill-list">
+  <li class="skill-list-item">
+    <a href="https://pwn.college/">
+      <img alt="Static Badge" src="https://img.shields.io/badge/-pwn.college-yellow">
+    </a>
+  </li>
+  <li class="skill-list-item">
+    <a href="https://ctf101.org/">
+      <img alt="Static Badge" src="https://img.shields.io/badge/-ctf101-blue">
+    </a>
+  </li>
+  <li class="skill-list-item">
+    <a href="https://ost2.fyi/">
+      <img alt="Static Badge" src="https://img.shields.io/badge/-Open_Security_Training-green">
+    </a>
+  </li>
+  <li class="skill-list-item">
+    <a href="https://github.com/wtsxDev/reverse-engineering?tab=readme-ov-file#courses">
+      <img alt="Static Badge" src="https://img.shields.io/badge/-Reverse_Engineering-blue&logo=GitHub$logoColor=white">
+    </a>
+  </li>
+</ul>
+
+
+
+
 
 ## Code learning
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTTP">
