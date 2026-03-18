@@ -86,7 +86,7 @@ order: 5
     </a>
   </li>
   <li>
-    <a href="=https://crackmes.one/">
+    <a href="https://crackmes.one/">
       <img alt="Static Badge" src="https://img.shields.io/badge/-Crackmes-blue">
     </a>
   </li>
