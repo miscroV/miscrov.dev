@@ -118,11 +118,6 @@ order: 5
   </li>
   <li>
     <a href="https://theanarchistlibrary.org/library/phineas-fisher-hackback-a-diy-guide-i">
-      <img alt="Static Badge" src="https://img.shields.io/badge/-CTF Time-green">
-    </a>
-  </li>
-  <li>
-    <a href="https://theanarchistlibrary.org/library/phineas-fisher-hackback-a-diy-guide-i">
       <img alt="Static Badge" src="https://img.shields.io/badge/-phineas--fisher--hackback--a--diy--guide-blue">
     </a>
   </li>
