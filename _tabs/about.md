@@ -75,7 +75,7 @@ This website is for everything from writeups to blog posts all in a single spot.
 | Socials                                                    | Alias                |
 |:-----------------------------------------------------------|:---------------------|
 | [pwn.college](https://pwn.college/hacker/148205)           | miscroV              |
-| [GitHub](https:github.com/miscroV)                         | miscroV              |
+| [GitHub](https://github.com/miscroV)                         | miscroV              |
 | [LinkedIn](https://www.linkedin.com/in/l-jayce-meidinger/) | L Jayce Meidinger    |
 
 
