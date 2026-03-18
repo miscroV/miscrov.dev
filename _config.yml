@@ -199,6 +199,7 @@ defaults:
       swcache: true
 
 sass:
+  sass_dir: _scss
   style: compressed
 
 compress_html:
