@@ -7,32 +7,10 @@ order: 5
 {: .prompt-tip }
 
 ## Cyber Learning
-<ul class="skill-list">
-  <li class="skill-list-item">
-    <a href="https://pwn.college/">
-      <img alt="Static Badge" src="https://img.shields.io/badge/-pwn.college-yellow">
-    </a>
-  </li>
-  <li class="skill-list-item">
-    <a href="https://ctf101.org/">
-      <img alt="Static Badge" src="https://img.shields.io/badge/-ctf101-blue">
-    </a>
-  </li>
-  <li class="skill-list-item">
-    <a href="https://ost2.fyi/">
-      <img alt="Static Badge" src="https://img.shields.io/badge/-Open_Security_Training-green">
-    </a>
-  </li>
-  <li class="skill-list-item">
-    <a href="https://github.com/wtsxDev/reverse-engineering?tab=readme-ov-file#courses">
-      <img alt="Static Badge" src="https://img.shields.io/badge/-Reverse_Engineering-blue&logo=GitHub$logoColor=white">
-    </a>
-  </li>
-</ul>
-
-
-
-
+- [![pwn.college](https://img.shields.io/badge/-pwn.college-yellow)](https://pwn.college/)
+- [![pctf101](https://img.shields.io/badge/-ctf101-blue)]([https://pwn.college/](https://ctf101.org/))
+- [![Open Security Training](https://img.shields.io/badge/-Open_Security_Training-green)](https://ost2.fyi)
+- [![Reverse Engineering](https://img.shields.io/badge/-Reverse_Engineering-blue&logo=GitHub$logoColor=white)](https://github.com/wtsxDev/reverse-engineering?tab=readme-ov-file#courses)
 
 ## Code learning
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTTP">
