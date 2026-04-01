@@ -38,6 +38,7 @@ order: 4
 - [phineas-fisher-hackback-a-diy-guide-i](https://theanarchistlibrary.org/library/phineas-fisher-hackback-a-diy-guide-i)
 - [IP_Over_Avian_Carriers](https://www.rfc-editor.org/rfc/rfc1149)
 - [Linux_Kernel](https://github.com/torvalds/linux?tab=readme-ov-fil)
+- [Vx Underground Security Research](https://vx-underground.org/)
 
 
 
