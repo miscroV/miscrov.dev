@@ -77,6 +77,6 @@ This website is for everything from writeups to blog posts all in a single spot.
 | [pwn.college](https://pwn.college/hacker/148205)           | miscroV              |
 | [GitHub](https://github.com/miscroV)                       | miscroV              |
 | [LinkedIn](https://www.linkedin.com/in/l-jayce-meidinger/) | L Jayce Meidinger    |
-| [Discord]()                                                | wings6410            |
+| [Discord](#)                                                | wings6410            |
 
 
