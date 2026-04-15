@@ -6,7 +6,7 @@ order: 5
 
 # Hello there! I'm MiscroV
 
-I am a third year cybersecurity student and industry professional with an avid desire to understand computers from the bottom up. I've been programming since I was young, but only really started diving into cybersecurity and computer science in the last year. 
+I am a Cybersecurity professional both working in the industry and participating in Capture The Flag competitions with my team [B4ND1T](https://b4nd1t-0.github.io/). I have been working with computers since I was little, starting with things like 'Hour of Code' and have really dived into cybersecurity and computer science after acquiring my associates degree. 
 
 ## Skills List
 
@@ -75,7 +75,8 @@ This website is for everything from writeups to blog posts all in a single spot.
 | Socials                                                    | Alias                |
 |:-----------------------------------------------------------|:---------------------|
 | [pwn.college](https://pwn.college/hacker/148205)           | miscroV              |
-| [GitHub](https://github.com/miscroV)                         | miscroV              |
+| [GitHub](https://github.com/miscroV)                       | miscroV              |
 | [LinkedIn](https://www.linkedin.com/in/l-jayce-meidinger/) | L Jayce Meidinger    |
+| [Discord]()                                                | wings6410            |
 
 
